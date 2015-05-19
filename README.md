@@ -1,7 +1,7 @@
 Using Twitter Api to access tweets based on specific hashtags without using tweepy 
 
 Demo:
-[!alt tag](https://raw.github.com/mohdsanadzakirizvi/twitter_api/master/demo.png)rogra
+![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/twitter_api/master/demo.png)
 
 Instructions for setup:
 1. Make a twitter app

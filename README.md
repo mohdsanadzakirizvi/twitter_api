@@ -9,4 +9,5 @@ Instructions for setup:
 3. Update it into your python file
 4. Execute the program
 
+LICENSE: This project is licensed under terms of MIT(http://opensource.org/licenses/MIT) license.
 

@@ -1,4 +1,4 @@
-Using Twitter Api to access tweets based on specific hashtags without using tweepy 
+Using Twitter Api to access tweets (using twitter's search api) based on specific hashtags without using tweepy 
 
 Demo:
 ![alt tag](https://raw.githubusercontent.com/mohdsanadzakirizvi/twitter_api/master/demo.png)
